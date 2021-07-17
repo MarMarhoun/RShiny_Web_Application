@@ -2,14 +2,14 @@
 
 In this repository, we have programmed web application in R using the "Shiny" package. This application handle three machine learning methods: PCA for data analysis, SVM, and decision tree for classification.
 
-In our program we have three scripts are:
+In our program we have three mainly scripts, which are:
  
-  *Login.r: To login into the main page.
-  *Server.r: This is the main scrpit. In this scrpit, we wrote our necessary codes for functionality and visualization.
-  *ui.r: For visualization.
+  - Login.r: To login into the main page.
+  - Server.r: This is the main scrpit. In this scrpit, we wrote our necessary codes for functionality and visualization.
+  - ui.r: For visualization.
   
   
-> To login please use admin for both id & password
+> To login please use "admin" for both id & password
 
 The main libraries used are:
 
