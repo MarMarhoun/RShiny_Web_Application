@@ -1,0 +1,15 @@
+ciel;Temperature;Humidite;Vent;jouer
+Ensoleillé;27.5;85;Faible;Non
+Ensoleillé;25.0;90;Fort;Non
+Couvert;26.5;86;Faible;Oui
+Pluie;20.0;96;Faible;Oui
+Pluie;19.0;80;Faible;Oui
+Pluie;17.5;70;Fort;Non
+Couvert;17.0;65;Fort;Oui
+Ensoleillé;21.0;95;Faible;Non
+Ensoleillé;19.5;70;Faible;Oui
+Pluie;22.5;80;Faible;Oui
+Ensoleillé;22.5;70;Fort;Oui
+Couvert;21.0;90;Fort;Oui
+Couvert;25.5;75;Faible;Oui
+Pluie;20.5;91;Fort;Non

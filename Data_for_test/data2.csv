@@ -1,0 +1,15 @@
+Pif;Temp;Humid;Vent1;Golf
+Soleil;Chaud;Haute;FAUX;NePasJouer
+Soleil;Chaud;Haute;VRAI;NePasJouer
+Couvert;Chaud;Haute;FAUX;Jouer
+Pluie;Bon;Haute;FAUX;Jouer
+Pluie;Frais;Normale;FAUX;Jouer
+Pluie;Frais;Normale;VRAI;NePasJouer
+Couvert;Frais;Normale;VRAI;Jouer
+Soleil;Bon;Haute;FAUX;NePasJouer
+Soleil;Frais;Normale;FAUX;Jouer
+Pluie;Bon;Normale;FAUX;Jouer
+Soleil;Bon;Normale;VRAI;Jouer
+Couvert;Bon;Haute;VRAI;Jouer
+Couvert;Chaud;Normale;FAUX;Jouer
+Pluie;Bon;Haute;VRAI;NePasJouer

@@ -1,0 +1,21 @@
+---
+title: "Decision Tree"
+author: "Marhoun Marouane & Monir Ech-chouyyekh"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: html_document
+---
+
+Asalamo Alaikum
+
+# Summary of SVM
+
+```{r echo=TRUE, comment=}
+print(summary(SVM_model()))
+```
+
+# Plot
+
+```{r echo=TRUE, comment=}
+print(plot(SVM_model(),data(),form2))
+```
+
