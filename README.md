@@ -12,7 +12,8 @@ In our program we have three scripts are:
 > To login please use admin for both id & password
 
 The main libraries used are:
-  *library ("Shiny")
+
+  _library ("Shiny")
   *library (ggplot2) # For plotting.
   *library (FactoMineR)
   *library (factoextra)
