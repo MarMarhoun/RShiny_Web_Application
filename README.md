@@ -13,12 +13,12 @@ In our program we have three scripts are:
 
 The main libraries used are:
 
-  _library ("Shiny")
-  *library (ggplot2) # For plotting.
-  *library (FactoMineR)
-  *library (factoextra)
-  *For ACP algorithm: we used these two packages: FactoMineR (Exploratory Multivariate Data Analysis with R) and factoextra (Extract and Visualize the Results of Multivariate Data Analyses).
-  *library (rpart) # Package required for the decision tree.
-  *library (rpart.plot) # Plotting the trees rpart.
-  *library (e1071) ## Package required for SVM.
-  *library (shinythemes) # To change the theme of the page.
+  - library ("Shiny")
+  - library (ggplot2) # For plotting.
+  - library (FactoMineR)
+  - library (factoextra)
+  - For ACP algorithm: we used these two packages: FactoMineR (Exploratory Multivariate Data Analysis with R) and factoextra (Extract and Visualize the Results of Multivariate Data Analyses).
+  - library (rpart) # Package required for the decision tree.
+  - library (rpart.plot) # Plotting the trees rpart.
+  - library (e1071) ## Package required for SVM.
+  - library (shinythemes) # To change the theme of the page.
